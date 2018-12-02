@@ -1,4 +1,3 @@
-# encoding: utf-8
 # copyright: 2018, The Authors
 
 control 'docker-checks-1.1' do
@@ -56,6 +55,6 @@ control 'application-checks-2.2' do
   tag "nist": ['CM-6', 'Rev_4']
 
   describe http("http://#{application_url}", enable_remote_worker: true) do
-    its('body.chomp') { should cmp "Hello world!" }
+    its('body.chomp') { should cmp 'Hello world!' }
   end
 end
