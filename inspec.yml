@@ -5,7 +5,7 @@ copyright: The MITRE Corporation, 2018
 copyright_email: opensource@mitre.org
 license: Apache-2.0
 summary: This InSpec profile provides a minimal - however incomplete - example to include functional testing for a the helloworld-web docker application.
-version: 0.1.0
+version: 1.0.0
 supports:
   platform: os
 inspec_version: "~> 3.0"
