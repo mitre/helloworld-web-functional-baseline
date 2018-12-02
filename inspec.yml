@@ -1,7 +1,7 @@
 name: helloworld-web-functional-baseline
 title: Functional Testing for helloworld-web application
-maintainer: The Authors
-copyright: The Authors
+maintainer: The MITRE InSpec Team
+copyright: The MITRE Corporation, 2018 
 copyright_email: opensource@mitre.org
 license: Apache-2.0
 summary: This InSpec profile provides a minimal - however incomplete - example to include functional testing for a the helloworld-web docker application.
