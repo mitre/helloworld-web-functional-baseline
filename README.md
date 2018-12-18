@@ -10,6 +10,9 @@ functional testing for a the helloworld-web docker application.
 Approved for Public Release; Distribution Unlimited. Case Number 18-3678.
 
 ### NOTICE
+MITRE hereby grants express written permission to use, reproduce, distribute, modify, and otherwise leverage this software to the extent permitted by the licensed terms provided in the LICENSE.md file included with this project.
+
+### NOTICE
 
 This software was produced for the U. S. Government under Contract Number 
 HHSM-500-2012-00008I, and is subject to Federal Acquisition Regulation Clause 
