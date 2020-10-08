@@ -8,7 +8,7 @@ summary: This InSpec profile provides a minimal - however incomplete - example t
 version: 1.0.0
 supports:
   platform: os
-inspec_version: "~> 3.0"
+inspec_version: ">= 4.0"
 
 attributes:
   - name: application_url
